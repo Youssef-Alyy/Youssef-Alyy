@@ -7,10 +7,11 @@
 
 - 💻 Languages: Javascript, Python, Java
 - 📚 Databases: Oracle, MySql
-- 📖 Libraries and Frameworks: Electron JS, React, Tailwind CSS, Prisma ORM
+- 📖 Libraries and Frameworks: Electron JS, React, Tailwind CSS, Prisma ORM, OpenSSL
+- 🧰 Tools: Nmap, Packet Tracer, 
 
 ### 🌱 Currently Learning
-- 🔒 Cybersecurity Fundamentals
+- 🔒 Cybersecurity and Cryptography Fundamentals
 - 🔍 Digital Forensic tools
 - 🌐 Networking tools
 - ☁️ Cloud: Microsoft Azure
