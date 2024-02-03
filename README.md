@@ -19,6 +19,6 @@
 ### 👥 Let's Connect!
 
 - 📫 Email: y_aly@outlook.com
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/YoussefAlyy/)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-YoussefAlyy-blue)](https://www.linkedin.com/in/YoussefAlyy/)
 
 
