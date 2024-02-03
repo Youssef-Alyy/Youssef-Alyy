@@ -8,7 +8,7 @@
 - 💻 Languages: Javascript, Python, Java
 - 📚 Databases: Oracle, MySql
 - 📖 Libraries and Frameworks: Electron JS, React, Tailwind CSS, Prisma ORM, OpenSSL
-- 🧰 Tools: Nmap, Packet Tracer, 
+- 🧰 Tools and SWs: Nmap, Packet Tracer, Docker, VMware 
 
 ### 🌱 Currently Learning
 - 🔒 Cybersecurity and Cryptography Fundamentals
