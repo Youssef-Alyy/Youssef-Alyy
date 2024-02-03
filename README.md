@@ -7,7 +7,7 @@
 
 - 💻 Languages: Javascript, Python, Java
 - 📚 Databases: Oracle, MySql
-- 📖 Libraries and Frameworks: Electron JS ⚛️, React :atom:, Tailwind CSS 🖌️, Prisma ORM  
+- 📖 Libraries and Frameworks: Electron JS ⚛️, React :atom:, Tailwind CSS 🖌️, Prisma ORM 🔺
 
 ### 🌱 Currently Learning
 - 🔒 Cybersecurity Fundamentals
