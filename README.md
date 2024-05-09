@@ -6,15 +6,16 @@
 ### 🔧 Tech Stack
 
 - 💻 Languages: Javascript, Python, Java
-- 📚 Databases: Oracle, MySql
-- 📖 Libraries and Frameworks: Electron JS, React, Tailwind CSS, Prisma ORM, OpenSSL
+- 📚 Databases: Oracle, MySql,Sqlite
+- 📖 Libraries and Frameworks: Node JS, Electron JS, React, Tailwind CSS, Prisma ORM, OpenSSL, EmailJs, Pandas
 - 🧰 Tools and SWs: Nmap, Packet Tracer, Docker, VMware 
 
 ### 🌱 Currently Learning
 - 🔒 Cybersecurity and Cryptography Fundamentals
 - 🔍 Digital Forensic tools
 - 🌐 Networking tools
-- ☁️ Cloud: Microsoft Azure
+- ☁️ Cloud: AWS
+- 💻 Machine Learning
 
 ### 👥 Let's Connect!
 
