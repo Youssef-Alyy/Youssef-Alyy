@@ -7,7 +7,7 @@
 
 - 💻 Languages: Javascript, Python, Java
 - 📚 Databases: Oracle, MySql,Sqlite
-- 📖 Libraries and Frameworks: Node JS, Electron JS, React, Tailwind CSS, Prisma ORM, OpenSSL, EmailJs, Pandas
+- 📖 Libraries and Frameworks: Node JS, Electron JS, React, Tailwind CSS, Prisma ORM, OpenSSL,FastAPI, Pandas
 - 🧰 Tools and SWs: Nmap, Packet Tracer, Docker, VMware 
 
 ### 🌱 Currently Learning
